@@ -218,16 +218,30 @@ p{
     font-size: 19px;
     line-height: 27px;
 }
+
+.skills{
+    margin-top: 24px;
+    margin-left: 58px;
+    width: 40%;
+    height: 344px;
+}
+
+.worked{
+    width: 39%;
+    float: right;
+    margin-top: -342px;
+    margin-right: 60px;
+}
 h3{
-    font-size: 33px;
-    padding-left: 13px;
+    font-size: 30px;
+    padding-left: 50px;
     padding-top: 40px;
 
 }
 .ht{
     padding-left: 63px;
     font-size: 22px;
-    padding-top: 2px;
+    padding-top: 45px;
     line-height: 37px;
 }
 
@@ -249,19 +263,23 @@ h1{
 }
 h3{
     padding-left: 117px;
+    font-size: 35px;
+    padding-top: 62px;
 }
 .ht{
-    padding-top: 18px;
+    padding-top: 36px;
     padding-left: 134px;
 }
 .skills{
-    width: 50%;
+    width: 40%;
     height: 55vh;
+    margin-left: 73px;
 }
 .worked{
-    width: 50%;
+    width: 40%;
     float: right;
-    margin-top: -472px;
+    margin-top: -335px;
+    margin-right: 76px;
 }
 h5{
     font-size: 29px;
